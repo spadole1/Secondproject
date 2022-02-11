@@ -10,6 +10,11 @@ public class DemoGit {
 	{
 		System.out.println("program for m2 method");
 	}
+	m3()
+	{
+		System.out.println("this is m3 method");
+	}
+	
 
 	
 }
